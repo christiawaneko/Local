@@ -7,6 +7,7 @@
     <link rel="stylesheet" type="text/css" href="components/css/style.css">
     <!-- <link rel="stylesheet" type="text/css" href="components/css/reset.css"> -->
     <link rel="stylesheet" type="text/css" href="bower_components/Simple-Grid/simplegrid.css">
+    <link rel="stylesheet" type="text/css" href="bower_components/components-font-awesome/css/font-awesome.css">
 	<script src="bower_components/moment/moment.js"></script>
 	<script src="bower_components/moment/locale/id.js"></script>
 	<script src="bower_components/jquery/dist/jquery.min.js"></script>
@@ -24,7 +25,18 @@
 				<form method="get" action="http://www.google.com/search">
 					<input type="text"  name="q" placeholder="what you find !" />
 				</form>
+
+					
 			</div>
+
+		</div>
+		<div id="socialicons">
+			<a class="icon" href="http://fb.me/" title="Twitter" target="_blank"><i class="fa fa-facebook"></i></a>
+			<a class="icon" href="http://twitter.com" title="Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+			<a class="icon" href="http://youtube.com/" title="Youtube" target="_blank"><i class="fa fa-youtube"></i></a>
+			<a class="icon" href="http://web.whatsapp.com/" title="Whatsapp" target="_blank"><i class="fa fa-whatsapp"></i></a>
+			<a class="icon" href="http://mail.google.com" title="Gmail" target="_blank"><i class="fa fa-envelope"></i></a>
+			<a class="icon" href="http://github.com/" title="Github" target="_blank"><i class="fa fa-github"></i></a>
 		</div>
 	</main>
 

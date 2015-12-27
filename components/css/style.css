@@ -60,11 +60,36 @@ a {
     border: 0;
     border-bottom: 3px solid #fff;
     color: #fff;
-    outline: 0;
     text-align: center;
+    outline: 0;
     font-size: 3em;
 }
+ 
 
+#socialicons {
+  text-align: center;
+  padding-top: 5%;
+}
+#socialicons .icon{
+  color: #fff;
+  border: 1px solid #34495E;
+  display: inline-block;
+  font-size: 28px;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  vertical-align: middle;
+  background: #243040;
+  margin: 0 3px 8px;
+  -webkit-border-radius: 50%; 
+  -moz-border-radius: 50%; 
+  border-radius: 50%; 
+}
+#socialicons .icon:hover{
+  color: #fff;
+}
+ 
 
 /* -------------------------------- 
 
