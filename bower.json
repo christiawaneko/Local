@@ -1,0 +1,25 @@
+{
+  "name": "local",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "Christiawan Eko S"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "~2.10.6",
+    "jquery": "~2.1.4",
+    "modernizr": "components-modernizr#~2.8.3",
+    "Simple-Grid": "https://github.com/ThisIsDallas/Simple-Grid.git",
+    "components-font-awesome": "~4.5.0"
+  }
+}
