@@ -1,5 +1,8 @@
 
-![Local-awesomelocalhost](https://github.com/christiawan/Local/raw/master/components/sample.png)(https://github.com/christiawan/Local)
+# Screenshot
+![Local-awesomelocalhost](https://github.com/christiawan/Local/raw/master/components/sample.png)
+
+![Local-awesomelocalhost](https://github.com/christiawan/Local/raw/master/components/sample2.png)
 
 # Local
 Simple directory listening Localhost
