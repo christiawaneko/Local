@@ -16,7 +16,7 @@ html * {
 }
 
 body {
-    background: url(../images/evening.jpg) ;
+    background: url(../images/afternoon.jpg) ;
     font-family: 'helvetica';
     overflow-x: hidden;
 }
@@ -104,7 +104,7 @@ main {
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
   padding: 200px 5%;
-  background: url(../images/evening.jpg) ;
+  background: url(../images/afternoon.jpg) ;
     background-size: cover;
     font-family: 'helvetica';
     overflow-x: hidden;
@@ -303,7 +303,7 @@ main p {
   left: 0;
   height: 100%;
   width: 100%;
-  background: url(../images/evening.jpg) ;
+  background: url(../images/afternoon.jpg) ;
   background-size: cover;
   font-family: 'helvetica';
   overflow-x: hidden;
